@@ -1,0 +1,21 @@
+{
+    "name": "WeatherStack",
+    "docs": "http;//www.bobsplace.com/",
+    "type": "python3",
+    "executable": "weatherstack.py",
+    "install": "install.sh",
+    "install_cloud": "install_cloud.sh",
+    "description": "Add weather data to the ISY994",
+    "notice": "Powered by WeatherStack.com",
+    "shortPoll": "120",
+    "longPoll": "600",
+    "profile_version": "1.0.0",
+    "credits": [ {
+	"title": "WeatherStack: A node server for weather data",
+    	"author": "Bob Paauwe",
+    	"version": "1.0.0",
+    	"date": "September 10, 2019",
+    	"source": "https://github.com/bpaauwe/udi-weatherstack-poly",
+	"license": "https://github.com/bpaauwe/udi-weatherstack-poly/LICENSE"
+	} ]
+}
